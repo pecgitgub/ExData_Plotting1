@@ -1,5 +1,15 @@
-## Introduction
+Exploratory Data Analysis
 
+These scripts are for Coursera "Exploratory Data Analysis" course Week 1 project. These files are in project 1:  
+
+Here are the steps to run these scripts
+1. Download these scripts , plot1.R, Plot2.R, Plot3.R,plot4.R to your project directory
+2. Scripts will download the data to ./data and from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip and unzip it under ./data
+3. run these scripts to generate corresponding .png files
+
+
+
+## Introduction
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
